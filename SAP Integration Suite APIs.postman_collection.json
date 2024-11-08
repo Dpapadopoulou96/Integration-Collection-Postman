@@ -13,7 +13,7 @@
 				"method": "GET",
 				"header": [
 					{
-						"key": "firstName",
+						"key": "FirstName",
 						"value": "John",
 						"type": "text"
 					},
